@@ -15,3 +15,5 @@ if ( ! defined( 'ABSPATH' ) ) {
  * functions.php
  * Add PHP snippets here
  */
+
+remove_theme_support( 'wc-product-gallery-lightbox' );
